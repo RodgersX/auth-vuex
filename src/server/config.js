@@ -1,0 +1,3 @@
+module.eports = {
+    'secret': 'supersecret'
+}
